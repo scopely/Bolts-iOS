@@ -22,6 +22,7 @@
 #import <Bolts/BFAppLinkTarget.h>
 #import <Bolts/BFMeasurementEvent.h>
 #import <Bolts/BFURL.h>
+#import <Bolts/BFAppLinkResolving.h>
 #import <Bolts/BFWebViewAppLinkResolver.h>
 #endif
 
